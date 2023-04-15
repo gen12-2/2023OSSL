@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 HELLO
+=======
+HELLO WOELD!
+>>>>>>> 82dee7ae0e6b2bded95ba5966f4b11f8d93f9d7b
